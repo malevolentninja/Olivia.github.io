@@ -3,11 +3,6 @@
 
 @import "{{ Cayman }}";
 
-#header > .inner {
-  flex-grow: 1;
-  width: 100%;
-}
-
 #header > * {
   flex-shrink: 0;
   width: 100%;
@@ -29,13 +24,10 @@
     position: relative;
 }
 
-
 a {
   transition: color 0.2s ease-in-out;
   border-color: #49bf9d;
   text-decoration: none;
-
-
 }
 
 h1 {
@@ -56,11 +48,6 @@ h1 {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
-}
-
-* {
-  box-sizing: border-box;
-
 }
 
 #main section:first-child {
