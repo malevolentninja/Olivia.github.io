@@ -9,20 +9,24 @@ I am an aspiring web developer and have been working on projects, courses and go
 
 - HTML5 (including Accessibility practices)
 - CSS (SASS and SCSS)
+- Bootstrap
 - JavaScript 
+- jQuery
 - Ruby
 
 #### I enjoy learning new Frameworks and I am currently exploring:
-- Bootstrap
+
 - React
 - Angular
 - Vue
+- Rails
 
 
 ### I have experience in the following BackEnd
 - Webpack
 - Gulp
 - MongoDB
+- MySQL
 - NodeJs
 - Git
 - browserfy
